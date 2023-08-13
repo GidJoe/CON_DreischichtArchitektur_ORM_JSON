@@ -1,0 +1,30 @@
+﻿<Window x:Class="WpfApp1.AddMitarbeiterWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Add New Mitarbeiter" Height="250" Width="400">
+    <Grid Margin="10">
+        <StackPanel Orientation="Vertical" Height="214" VerticalAlignment="Bottom">
+            <!-- TextBox for MID -->
+            <TextBox Name="txtMID" Margin="0,0,0,5" Width="220" Text="MID" />
+
+            <!-- TextBox for Vorname -->
+            <TextBox Name="txtVorname" Margin="0,0,0,10" Width="220" Text="Vorname" />
+
+            <!-- TextBox for Nachname -->
+            <TextBox Name="txtNachname" Margin="0,0,0,10" Width="220" Text="Nachname" />
+
+            <!-- DatePicker for Geburtsdatum -->
+            <DatePicker Name="dpGeburtsdatum" Margin="0,0,0,10" Width="220" />
+
+            <TextBox Name="UrlaubsTageGesamt" Margin="0,0,0,10" Width="220" Text="UrlaubsTageGesamt" />
+
+            <TextBox Name="RestUrlaub" Margin="0,0,0,10" Width="220" Text="RestUrlaub"/>
+
+            <!-- Buttons for Add and Cancel actions -->
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <Button Content="Add" Width="100" Click="BtnAdd_Click"/>
+                <Button Content="Cancel" Width="100" Margin="10,0,0,0" />
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,106 @@
+[
+  {
+    "MID": "2",
+    "Vorname": "Bernd",
+    "Nachname": "Schmidt",
+    "Geburtsdatum": "20.02.1985",
+    "UrlaubsTageGesamt": 30,
+    "RestUrlaub": 15
+  },
+  {
+    "MID": "3",
+    "Vorname": "Carla",
+    "Nachname": "Bauer",
+    "Geburtsdatum": "25.03.1987",
+    "UrlaubsTageGesamt": 30,
+    "RestUrlaub": 8
+  },
+  {
+    "MID": "4",
+    "Vorname": "David",
+    "Nachname": "Weber",
+    "Geburtsdatum": "05.04.1992",
+    "UrlaubsTageGesamt": 30,
+    "RestUrlaub": 5
+  },
+  {
+    "MID": "5",
+    "Vorname": "Elena",
+    "Nachname": "Schwarz",
+    "Geburtsdatum": "10.05.1989",
+    "UrlaubsTageGesamt": 30,
+    "RestUrlaub": 20
+  },
+  {
+    "MID": "6",
+    "Vorname": "Frank",
+    "Nachname": "Wolf",
+    "Geburtsdatum": "15.06.1988",
+    "UrlaubsTageGesamt": 30,
+    "RestUrlaub": 12
+  },
+  {
+    "MID": "7",
+    "Vorname": "Greta",
+    "Nachname": "Klein",
+    "Geburtsdatum": "20.07.1991",
+    "UrlaubsTageGesamt": 30,
+    "RestUrlaub": 7
+  },
+  {
+    "MID": "8",
+    "Vorname": "Hans",
+    "Nachname": "Neumann",
+    "Geburtsdatum": "08.08.1984",
+    "UrlaubsTageGesamt": 30,
+    "RestUrlaub": 9
+  },
+  {
+    "MID": "9",
+    "Vorname": "Iris",
+    "Nachname": "Zimmermann",
+    "Geburtsdatum": "12.09.1993",
+    "UrlaubsTageGesamt": 30,
+    "RestUrlaub": 14
+  },
+  {
+    "MID": "10",
+    "Vorname": "Jan",
+    "Nachname": "Kraus",
+    "Geburtsdatum": "10.10.1995",
+    "UrlaubsTageGesamt": 30,
+    "RestUrlaub": 6
+  },
+  {
+    "MID": "11",
+    "Vorname": "Anna",
+    "Nachname": "Winter",
+    "Geburtsdatum": "12.05.1987",
+    "UrlaubsTageGesamt": 25,
+    "RestUrlaub": 1
+  },
+  {
+    "MID": "11",
+    "Vorname": "Anna",
+    "Nachname": "Winter",
+    "Geburtsdatum": "16.08.1935",
+    "UrlaubsTageGesamt": 25,
+    "RestUrlaub": 1
+  },
+  {
+    "MID": "12",
+    "Vorname": "Daniel",
+    "Nachname": "Winter",
+    "Geburtsdatum": "05.08.2014",
+    "UrlaubsTageGesamt": 300,
+    "RestUrlaub": 300
+  },
+  {
+    "MID": "13",
+    "Vorname": "Sophie",
+    "Nachname": "Winter",
+    "Geburtsdatum": "06.08.2023",
+    "UrlaubsTageGesamt": 30,
+    "RestUrlaub": 30
+  }
+]
